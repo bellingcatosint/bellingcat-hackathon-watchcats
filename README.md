@@ -69,3 +69,14 @@ This tool uses the following OSINT techniques:
 An example of a hashtag network built with [Twitter Explorer](https://twitterexplorer.org/) using one of the datasets
 
 <img width="958" alt="HashtagNetwork" src="https://github.com/soxoj/bellingcat-hackathon-watchcats/assets/31013580/6327e7dd-ceb1-4f26-a5b4-6961dae5957b">
+
+
+## Contact via RetroShare
+
+For direct contact and project coordination, you can reach us through RetroShare. Add this public RetroShare certificate to your contacts:
+
+```text
+ABCDCA4iYSA/R3eLKGve+Xh/AQpCZWxsaW5nY2F0AxQpROvRHO0431TmXqzV1lrCGXOziZMGjB+owBNNBAONzFA=
+```
+
+Please share your own certificate in return so we can establish a mutual connection.
